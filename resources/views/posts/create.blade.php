@@ -1,5 +1,5 @@
 <!-- create.blade.php -->
-@extends('layout')
+@extends('layouts.app')
 
 @section('content')
     <h1>Create a New Post</h1>
